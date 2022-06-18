@@ -1,3 +1,3 @@
-# git_test1
+# git_test
 My second git hub repo
 Hello Odin!
